@@ -11,6 +11,7 @@
     <?php #inicio do código em PHP
         $titulo = '<h1> Página Padrão PHP </h1>'; 
         echo( $titulo);
+    
 
     
 
