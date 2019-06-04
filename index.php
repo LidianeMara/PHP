@@ -16,12 +16,14 @@
 <body>
 	
 <header>
-	<img src="imagens/topocurso.png" alt="">
+<a href="http://lidianephp.000webhostapp.com"><img src="imagens/topocurso.jpg" alt=""> </a>
 	
 	<nav>
 		<h1>Tijolo Criativo</h1>
 		<p>
-		<a href="#">Início</a>
+		<a href="sistema/index.php">Contato</a>
+        <a href ="#">Sobre</a>
+
 		</p>
 	</nav>
 	</header>
